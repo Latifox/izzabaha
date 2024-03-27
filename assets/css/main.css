@@ -1149,6 +1149,7 @@ body{
     justify-content:flex-end;
     margin:0 auto
 }
+
 @media (max-width: 1180px){
     .contact--lockup{
         max-width:90%
